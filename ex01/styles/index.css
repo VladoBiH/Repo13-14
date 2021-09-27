@@ -1,5 +1,5 @@
 .kontejner {
-    width: 900px;
+    width: 950px;
     margin: 0 auto;
     text-align: center;
     column-count: 4;
@@ -18,7 +18,7 @@ img {
   }
   .caption {
       width: 200px;
-      background: rgba(0, 0, 0, 0.5);
+      background: black;
       position: absolute;
       left: 0;
       top: 0;
@@ -58,7 +58,7 @@ img {
 
 .close {
     width: 100px;
-    height: 40px;
+    height: 30px;
     color: white;
     background: black;
     border-radius: 25%;
